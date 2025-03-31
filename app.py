@@ -30,9 +30,9 @@ config = {
     'host': 'localhost',
     'port': 3308,
     'user': 'root',
-    'password': 'Pranathi#01',
+    'password': 'password',
     'database': 'new',
-    'auth_plugin': 'Pranathi#01'  # Required for MySQL 8+
+    'auth_plugin': 'plugin'  # Required for MySQL 8+
 }
 
 # Error handling
